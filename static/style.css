@@ -1,0 +1,29 @@
+body {
+text-align: center;
+background: #508090;
+color: #fff5ee;
+}
+.button{
+font: bold 16px Arial;
+background-color:#EEEEEE;
+padding: 10x;
+border: 5px solid #CCCCCC;
+width: 200px
+}
+.redtext {
+	color: red;
+}
+.blacktext {
+	color: black;
+}
+.center {
+margin: auto;
+width: 50%;
+border: 3px solid #73AD21;
+Padding: 5px;
+color: black;
+font: 12px;
+}
+div {
+background-color: lightgrey;
+}
